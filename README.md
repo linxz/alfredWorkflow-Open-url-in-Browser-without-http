@@ -29,4 +29,4 @@
 
 ## 下载
 
-直接点击下载，如有需要的话： [Open URL in Browser without http.alfredworkflow](Open URL in Browser without http.alfredworkflow)
+直接点击下载，如有需要的话： [Open URL in Browser without http.alfredworkflow](http://linxz.github.io/alfredWorkflow-Open-url-in-Browser-without-http/Open%20URL%20in%20Browser%20without%20http.alfredworkflow)
